@@ -1,0 +1,10 @@
+{
+  "name": "cuegen",
+  "version": "0.1",
+  "description": "Script to generate for .cue files for PSX .bins",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
