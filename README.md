@@ -7,6 +7,8 @@ Clone the repo and put the binary file that you want to create a cuesheet for in
 
 This will create  a `ResidentEvil.cue` file in the same directory with the relevant information inside.
 
+<img src="cuegen.gif">
+
 😎
 
 
