@@ -1,11 +1,12 @@
 {
-  "name": "cuegen",
-  "version": "0.0.1",
+  "name": "psx-cuegen",
+  "version": "0.0.3",
   "description": "Script to generate for .cue files for PSX .bins",
   "main": "./lib/index.js",
   "license": "MIT",
   "bin": {
     "psx-cuegen": "bin/getFile.js"
   },
-  "preferGlobal": true
+  "preferGlobal": true,
+  "dependencies": {}
 }
